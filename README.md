@@ -19,7 +19,7 @@ Puedes participar en el proyecto con:
 * Visual Studio 2013
 
 ## Manual de uso
-En el siguiente [enlace](https://github.com/encamina/enmarcha-sharepoint-powershell/pulls), se ha descrito la funcionalidad de los módulos y scripts de PowerShell
+En el siguiente [enlace](https://github.com/encamina/enmarcha-sharepoint-powershell/manual.md), se ha descrito la funcionalidad de los módulos y scripts de PowerShell
 
 ## Ejemplos de uso
 Para aprender a usar ENMARCHA, os hemos creado los siguientes [ejemplos](https://github.com/Encamina/Enmarcha-SharePoint/tree/master/Samples):
