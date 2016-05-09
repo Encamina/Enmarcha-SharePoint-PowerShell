@@ -19,7 +19,8 @@ Version  | Fecha | Comentarios
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
 ----------
-
+## Prerequisitos ##
+Para el correcto funcionamiento el agente de compilación y la máquina donde va a estar el servidor de integración debe de tener habilitado la ejecución de PowerShell Remoto. En caso contrario revisar este [artículo] (https://blogs.msdn.microsoft.com/sharepointdev/2011/11/17/deploying-wsps-as-part-of-an-automated-build-chris-obrien/)
 ## ESCENARIO ##
 Dado la carpeta [Proyecto] (https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/tree/master/Enmarcha.SharePoint.PowerShell/Proyecto/) que se encuentra en la solución inicial. Vamos a realizar un proceso de integración de la solución dentro un ciclo de integración continua. 
 
