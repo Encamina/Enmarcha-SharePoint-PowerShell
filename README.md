@@ -24,7 +24,7 @@ En el siguiente [enlace](https://github.com/Encamina/Enmarcha-SharePoint-PowerSh
 ## Ejemplos de uso
 Para aprender a usar ENMARCHA PowerShelle, os hemos creado los ejemplos [ejemplos]:
 
-* [Integración con Team Foundation Server 2015 / Visual Studio Team Services con New Builds](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/integraciontfs.md) -
+* [Integración con Team Foundation Server 2015 / Visual Studio Team Services con New Builds](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/integraciontfs.md) -
 
 ## Licencia
 [MIT](LICENSE.txt)
