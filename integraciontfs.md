@@ -34,8 +34,11 @@ esta función tiene los siguientes parametros:
 -Force --> Este parametro elimina la colección del sitio en el supuesto de que exista
 -ConfigurationRelative --> Indica si recorre todas las carpetas a nivel raiz o no. Este parametro es debido a que en nuestro caso al seguir una métodologia Agile y separar cada entregable por Sprint, es posible que se necesite restaurar nuestro desarrollo en algún punto de la aplicación o bien realizar una instalación de todos los sprints de la aplicación.
 
+Este script tambien lo ejecuta cada miembro del equipo en su maquina local para integrarse el resto de desarrollos con ellos.
+Un ejemplo seria 
+```PowerShell
 
-
+```
 ### TFS /VST Online  ###
 
 1.- Abrimos la solución Enmarcha.Samples.sln con Visual Studio 2013/ Visual Studio 2015
