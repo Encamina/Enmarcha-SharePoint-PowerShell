@@ -46,6 +46,7 @@ Un ejemplo seria
 ![alt text](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/content/images/Build.PNG "Build")
 
 2.- Añadimos una nueva definición de la Build.
+
 ![alt text](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/content/images/NewBuildDefinition.PNG "Build")
 
 3.- Sobre esta definición seleccionamos la opción de ejecutar un PowerShell de forma remota. 
