@@ -42,14 +42,14 @@ Un ejemplo seria
 ### TFS /VST Online  ###
 
 1.- En la parte del Proyecto disponemos de una opción Build 
-
-2.- AÑadimos una nueva definición de la Build.
+![alt text](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/content/images/Build.PNG "Build")
+2.- Añadimos una nueva definición de la Build.
 
 3.- Sobre esta definición seleccionamos la opción de ejecutar un PowerShell de forma remota. 
-
+![alt text](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/content/images/PowerShellRemoto.PNG "Build")
 4.- Indicaremos la maquina en las que se va a ejecutar 
-
+![alt text](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/content/images/RunDeployment.PNG "Build")
 5.- Seleccionamos el Script que se va a ejecutar(hay que indicar el Path UNC) 
-
+![alt text](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/content/images/RunDeployment.PNG "Build")
 
 
