@@ -21,8 +21,19 @@ Version  | Fecha | Comentarios
 ----------
 ## Prerequisitos ##
 Para el correcto funcionamiento el agente de compilación y la máquina donde va a estar el servidor de integración debe de tener habilitado la ejecución de PowerShell Remoto. En caso contrario revisar este [artículo] (https://blogs.msdn.microsoft.com/sharepointdev/2011/11/17/deploying-wsps-as-part-of-an-automated-build-chris-obrien/)
+
 ## ESCENARIO ##
 Dado la carpeta [Proyecto] (https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/tree/master/Enmarcha.SharePoint.PowerShell/Proyecto/) que se encuentra en la solución inicial. Vamos a realizar un proceso de integración de la solución dentro un ciclo de integración continua. 
+
+El primer paso es que tenemos una función llamada [CreateSite](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/Enmarcha.SharePoint.PowerShell/CreateSite.ps1)
+esta función tiene los siguientes parametros:
+-urlWebApplication --> Url de nuestra colección de Sitio.
+-ownerAlias Usuario --> Administrador de dicha colección de sitios
+-PathConfiguration --> Ubicación de donde estan los ficheros de ejecución
+-PathWsp --> Ubicación donde estan los ficheros .WSP de la solución 
+-Force --> Este parametro elimina la colección del sitio en el supuesto de que exista
+-ConfigurationRelative --> Indica si recorre todas las carpetas a nivel raiz o no. Este parametro es debido a que en nuestro caso al seguir una métodologia Agile y separar cada entregable por Sprint, es posible que se necesite restaurar nuestro desarrollo en algún punto de la aplicación o bien realizar una instalación de todos los sprints de la aplicación.
+
 
 
 ### TFS /VST Online  ###
