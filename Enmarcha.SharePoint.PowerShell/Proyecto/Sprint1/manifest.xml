@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+XML EJEMPLO Borrar
+<Site>
+  <RelativeUrl>/</RelativeUrl>
+  <Name>Enmarcha</Name>
+  <Description>Sitio para las pruebas de Enmarcha</Description>
+  <Template>BLANKINTERNET#0</Template>
+  <Language>3082</Language>
+  <SiteMasterPage>/_catalogs/masterpage/CustomPublishing.master</SiteMasterPage>
+  <SystemMasterPage>/_catalogs/masterpage/CustomSystem.master</SystemMasterPage>
+  <SiteLogo>
+    <Url>/Style Library/Images/logo-enmarcha.png</Url>
+  </SiteLogo>
+  <SiteFeatures>
+    <Feature Id="36544770-eeef-4b76-8196-37c79d85193d" />
+  </SiteFeatures>
+  <WebFeatures>
+  </WebFeatures>
+  <PropertyBags>
+    <Value Key="ActiveDirectoryEntryPath" Val="LDAP://OU=Enmarcha,OU=Usuarios,DC=Enmarcha,DC=dev" />
+  </PropertyBags>
+  <WelcomePage>
+    <Url>Paginas/Inicio.aspx</Url>
+  </WelcomePage>
+  <SiteSearchSettings>
+    <SearchCenterUrl>/buscar</SearchCenterUrl>
+    <SearchResultsPageUrl>/buscar/Paginas/Results.aspx</SearchResultsPageUrl>
+  </SiteSearchSettings>
+</Site>
+-->
+<Site>
+  <RelativeUrl>/</RelativeUrl>
+  <Name>Enmarcha</Name>
+  <Description>Sitio para las pruebas de Enmarcha</Description>
+  <Template>BLANKINTERNET#0</Template>
+  <Language>3082</Language>  
+</Site>

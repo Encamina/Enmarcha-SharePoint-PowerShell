@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List EnableRating="false" EnableModeration="false" EnableVersioning="true" EnableMinorVersions="false" ForceCheckout="false" ItemLevelPermissionWrite="CreateAllAndEditCreatedByUser">
+  <Url>Documentos</Url>
+  <Name>Documentos</Name>
+</List>

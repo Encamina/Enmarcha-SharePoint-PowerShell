@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Site>
+  <RelativeUrl>/subsite</RelativeUrl>
+  <Name>SubSite</Name>
+  <Description>Subsitio de Enmarcha</Description>
+  <Template>BLANKINTERNET#2</Template>
+  <Language>3082</Language>
+  <WebFeatures>
+    <Feature Id="b4060287-e8bd-449f-8408-c97d8c823166" />
+  </WebFeatures>
+  <WelcomePage>
+    <Url>Paginas/Inicio.aspx</Url>
+  </WelcomePage>
+</Site>

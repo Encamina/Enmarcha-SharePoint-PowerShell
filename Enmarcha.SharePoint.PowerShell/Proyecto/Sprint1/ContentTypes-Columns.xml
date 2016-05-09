@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Site>
+  <SiteColumns>
+    <Add
+         Id="f0dd3245-3e58-48c3-9d22-8830623b0ca6"
+         FieldType="URL"
+         Name="ENMARCHAEnlace"
+         DisplayName="Enlace"
+         StaticName="ENMARCHAEnlace"
+         Group="Enmarcha SiteColumns"
+         Hidden="False"
+         Required="False"
+         Sealed="False"
+         ShowInDisplayForm="True"
+         ShowInEditForm="True"
+         ShowInListSettings="True"
+         ShowInNewForm="True">
+      <DisplayNames>
+        <DisplayName Label="es-ES" Value="Imagen" />
+      </DisplayNames>
+    </Add>
+    <Add
+          Id="C1D89DEB-B402-4033-9C5E-211AED34D6E6"
+          FieldType="Number"
+          Name="Entero"
+          DisplayName="Entero"
+          StaticName="Entero"
+          Group="Enmarcha SiteColumns"
+          Hidden="False"
+          Required="True"
+          Sealed="False"
+          ShowInDisplayForm="True"
+          ShowInEditForm="True"
+          ShowInListSettings="True"
+          ShowInNewForm="True">
+      <DisplayNames>
+        <DisplayName Label="es-ES" Value="Entero" />
+      </DisplayNames>
+    </Add>
+    <Add
+      Id="85EF5A66-D7E8-4C28-A14A-6D827D9AEE8B"
+      FieldType="Number"
+      Name="Double"
+      DisplayName="Double"
+      StaticName="Double"
+      Group="Enmarcha SiteColumns"
+      Hidden="False"
+      Required="True"
+      Sealed="False"
+      ShowInDisplayForm="True"
+      ShowInEditForm="True"
+      ShowInListSettings="True"
+      ShowInNewForm="True">
+      <DisplayNames>
+        <DisplayName Label="es-ES" Value="Double" />
+      </DisplayNames>
+    </Add>
+    <Add
+        Id="EACF2A5D-D0A3-4588-8FD9-5AE4797A69C7"
+        FieldType="Boolean"
+        Name="Boolean"
+        DisplayName="Boolean"
+        StaticName="Boolean"
+        Group="Enmarcha SiteColumns"
+        Hidden="False"
+        Required="False"
+        Sealed="False"
+        ShowInDisplayForm="True"
+        ShowInEditForm="True"
+        ShowInListSettings="True"
+        ShowInNewForm="True">
+      <DisplayNames>
+        <DisplayName Label="es-ES" Value="Finalizada" />
+      </DisplayNames>
+    </Add>
+
+  </SiteColumns>
+</Site>

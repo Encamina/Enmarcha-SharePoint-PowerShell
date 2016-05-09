@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List>
+  <Url>Test</Url>
+  <Name>Test</Name>
+  <Description>Lista para testear Enmarcha</Description>
+  <ContentTypes>
+    <ContentType LCID="3082" Name="TestContentType" />
+  </ContentTypes>
+</List>

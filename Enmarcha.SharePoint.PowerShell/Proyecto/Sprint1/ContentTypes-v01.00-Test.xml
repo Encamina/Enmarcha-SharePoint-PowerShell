@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Site>
+  <ContentTypes>
+    <Add
+      Id="0x01003EC0D7FFABAFB34B91811CAC6F6234B1"
+      Parent="Item"
+      Name="TestContentType"
+      DisplayName="TestContentType"
+      StaticName="TestContentType"
+      Group="Enmarcha Content Types"
+      Description="">
+      <DisplayNames>
+        <DisplayName Label="es-ES" Value="TestContentType" />
+      </DisplayNames>
+      <Fields>
+        <Add InternalName="ENMARCHAEnlace" />
+        <Add InternalName="Entero" />
+        <Add InternalName="Double" />
+        <Add InternalName="Boolean" />
+      </Fields>
+    </Add>    
+  </ContentTypes>
+</Site>
