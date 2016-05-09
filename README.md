@@ -22,12 +22,9 @@ Puedes participar en el proyecto con:
 En el siguiente [enlace](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/manual.md), se ha descrito la funcionalidad de los módulos y scripts de PowerShell
 
 ## Ejemplos de uso
-Para aprender a usar ENMARCHA, os hemos creado los siguientes [ejemplos](https://github.com/Encamina/Enmarcha-SharePoint/tree/master/Samples):
+Para aprender a usar ENMARCHA PowerShelle, os hemos creado los ejemplos [ejemplos]:
 
-* [Enmarcha.Samples.ManageData](https://github.com/Encamina/Enmarcha-SharePoint/tree/master/Samples/Enmarcha.Samples.ManageData) - Trabajar con datos (listas y bibliotecas de documentos en SharePoint)
-* [Enmarcha.Samples.PermissionList](https://github.com/Encamina/Enmarcha-SharePoint/tree/master/Samples/Enmarcha.Samples.PermissionList) - Gestionar los permisos a grupos de SharePoint dentro de una lista
-* [Enmarcha.Samples.Provisioning](https://github.com/Encamina/Enmarcha-SharePoint/tree/master/Samples/Enmarcha.Samples.Provisioning) - Provisionar artefactos de SharePoint
-* [Enmarcha.Samples.SitesProvisioning](https://github.com/Encamina/Enmarcha-SharePoint/tree/master/Samples/Enmarcha.Samples.SiteProvisioning) - Provisionaremos Sitios y Subsitios dentro de ShareProint
+* [Integración con Team Foundation Server 2015 / Visual Studio Team Services con New Builds](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/integraciontfs.md) -
 
 ## Licencia
 [MIT](LICENSE.txt)
