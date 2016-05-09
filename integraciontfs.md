@@ -53,7 +53,7 @@ Un ejemplo seria
 
 4.- Indicaremos la maquina en las que se va a ejecutar 
 
-![alt text](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/content/images/RunDeployment.PNG "Build")
+![alt text](https://github.com/Encamina/Enmarcha-SharePoint-PowerShell/blob/master/content/images/RunPowerShell.PNG "Build")
 
 5.- Seleccionamos el Script que se va a ejecutar(hay que indicar el Path UNC) 
 
