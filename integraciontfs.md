@@ -37,7 +37,7 @@ esta función tiene los siguientes parametros:
 Este script tambien lo ejecuta cada miembro del equipo en su maquina local para integrarse el resto de desarrollos con ellos.
 Un ejemplo seria 
 ```PowerShell
-
+. ./CreateSite.ps1 -UrlWebApplication https://contoso.com -OwnerAlias contoso\adriandiaz -PathWsp $dropLocation -PathConfiguration "$print1" -Force -ConfigurationRelative
 ```
 ### TFS /VST Online  ###
 
