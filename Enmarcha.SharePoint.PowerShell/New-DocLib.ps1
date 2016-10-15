@@ -46,6 +46,8 @@ Process
     {
 		$assembly = [System.Reflection.Assembly]::LoadWithPartialName("Microsoft.SharePoint.Portal")
         $reputationHelper =$assembly.GetType("Microsoft.SharePoint.Portal.ReputationHelper")
+
+		[System.Reflection.BindingFlags]$flags = [System.Reflection.BindingFlags]::Static -bor [System.Reflection.BindingFlags]::NonPublic
       
         if ([System.Convert]::ToBoolean($manifest.List.EnableRating))
         {
