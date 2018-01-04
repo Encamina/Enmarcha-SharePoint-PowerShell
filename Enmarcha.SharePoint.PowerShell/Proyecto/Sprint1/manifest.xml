@@ -27,6 +27,9 @@ XML EJEMPLO Borrar
     <SearchCenterUrl>/buscar</SearchCenterUrl>
     <SearchResultsPageUrl>/buscar/Paginas/Results.aspx</SearchResultsPageUrl>
   </SiteSearchSettings>
+  <Variations EnableAutoSpawnPropertyName="true" AutoSpawnStopAfterDeletePropertyName="false" UpdateWebPartsPropertyName="true" CopyResourcesPropertyName="true" SendNotificationEmailPropertyName="false" SourceVarRootWebTemplatePropertyName="BLANKINTERNET#0">
+    <Variation Title="es-es" Description="Spanish Language Pack" FlagControlDisplayName="Inicio" Language="es-ES" Locale="3082" HierarchyCreationMode="Publishing Sites and All Pages" IsSource="true"/>
+  </Variations>
 </Site>
 -->
 <Site>

@@ -29,6 +29,7 @@
   <ItemGroup>
     <Compile Include="ActivateRatings.ps1" />
     <Compile Include="AdditionalEndCommands.ps1" />
+    <Compile Include="New-Variation.ps1" />
     <Compile Include="ContentTypeFunctions.psm1" />
     <Compile Include="ContentTypeXmlFunctions.psm1" />
     <Compile Include="CreateSite.ps1" />
