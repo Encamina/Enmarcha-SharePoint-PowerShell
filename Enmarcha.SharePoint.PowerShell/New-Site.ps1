@@ -156,7 +156,7 @@ Process
 
 	if ($manifest.Site.Variations -ne $null)
 	{
-		& "$currentPath\ConfigureVariations.ps1" -rootWeb $spWeb -variations $manifest.Site.Variations 
+		& "$currentPath\New-Variation.ps1" -rootWeb $spWeb -variations $manifest.Site.Variations 
 	}
     
     return $existingSite
